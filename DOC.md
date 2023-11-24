@@ -5,7 +5,7 @@ oui et toi ?
 
 oui merci.
 
-ok code 
+ok code :tada:
 
 
 Ok (fixed) 🏁
