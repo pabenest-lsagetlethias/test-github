@@ -8,6 +8,6 @@ oui merci.
 ok code 
 
 
-Ok (fixed)
+Ok (fixed) 🏁
 
 ...
